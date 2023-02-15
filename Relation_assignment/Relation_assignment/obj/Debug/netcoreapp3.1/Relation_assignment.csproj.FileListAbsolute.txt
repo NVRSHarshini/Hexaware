@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.exe
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.deps.json
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.runtimeconfig.json
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.runtimeconfig.dev.json
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.dll
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\bin\Debug\netcoreapp3.1\Relation_assignment.pdb
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.AssemblyInfo.cs
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.dll
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.pdb
+C:\Users\123\Desktop\3\Hexaware\Relation_assignment\Relation_assignment\obj\Debug\netcoreapp3.1\Relation_assignment.genruntimeconfig.cache

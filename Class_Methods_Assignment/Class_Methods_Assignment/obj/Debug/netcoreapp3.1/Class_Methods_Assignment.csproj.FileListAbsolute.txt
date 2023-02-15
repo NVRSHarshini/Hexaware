@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.exe
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.deps.json
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.runtimeconfig.json
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.runtimeconfig.dev.json
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.dll
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\bin\Debug\netcoreapp3.1\Class_Methods_Assignment.pdb
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.AssemblyInfo.cs
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.dll
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.pdb
+C:\Users\123\Desktop\3\Hexaware\Class_Methods_Assignment\Class_Methods_Assignment\obj\Debug\netcoreapp3.1\Class_Methods_Assignment.genruntimeconfig.cache
